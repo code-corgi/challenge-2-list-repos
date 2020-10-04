@@ -1,7 +1,7 @@
 # Dev Profile
 
 
-This site displays the github repos for a given user
+This site displays the github repository for a given user
 sorted by recency.
 
 The current live version can be found
